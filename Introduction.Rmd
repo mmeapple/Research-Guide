@@ -1,11 +1,5 @@
----
-title: "How to Write an Introduction for a Social Science Research Paper"
-author: "Alma Bezares"
-date: "Summer 2020"
-output: html_document
-description: "This is a short guide on how to write an introduction for an Economics research paper."
----
 
+# How to Write an Introduction for a Social Science Research Paper
 
 The introduction represents the most important section of your research paper. Whereas your title and abstract guide the readers towards the paper, the introduction should convince them to stay and read the rest of it. This section represents your opportunity to state your research question and link it to the bigger issue (why does your research matter?), how will you respond it (your empirical methods and the theory behind), your findings, and your contribution to the literature on that issue.
 
@@ -15,7 +9,7 @@ I reviewed the "Introduction Formulas" guidelines by  [Keith Head](http://blogs.
 This is not a set of rules, as papers may differ depending on the methods and specific characteristics of the field, but it can work as a guideline. An important takeaway is that the introduction will be the section that deserves most of the attention in your paper. You can write it first, but you need to go back to it as you make progress in the rest of teh paper. Keith Head puts it excellent by saying that this exercise (going back and forth) is mostly useful to remind you what are you doing in the paper and why. 
 
 
-# Outline 
+## Outline 
 
 
 What are the sections generally included in well-written introductions? According to the analysis of what different authors suggest, a well-written introduction includes the following sections:
@@ -93,7 +87,7 @@ A convention for the papers, this section needs to be kept short and outline the
 
 
 
-# In summary
+## In summary
 
 The introduction of your paper will play a huge role in defining the future of your paper. Do not waste this opportunity and use it as well as your North Star guiding your path throughout the rest of the paper. 
 
