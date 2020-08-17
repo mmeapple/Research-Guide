@@ -1,0 +1,74 @@
+# Module 4: Going Beyond 
+
+This Module includes topics that will be covered in the course if time allows it, but that may be of interest to the students. These are latent topics that have significant implications on the development of low- and middle-income countries.
+
+Topics covered:
+
+1. Climate change
+2. Ethnicity, culture, and development
+
+
+## Climate Change
+
+Climate change influences, and it is affected by migration, agricultural and industrial practices, institutional capacity, trade, and urbanization. Climate change and development are closely linked. People in low-income countries are the most vulnerable and the least resilient to face the challenges of environmental degradation.  
+
+People living close to the Equator are more exposed to extreme weather. Low-income countries (located, for the most part, in areas closer to the Equator) have less resilient infrastructure and they do not have access to insurance or other financial mechanisms to face natural disasters (remember the chart we saw in the last Module on the Ivory Coast?). They also rely more on agriculture and droughts or extreme weather could damage the crops, leaving households without access to a source of income. These countries also have less capacity to adapt, to more resistant crops, to a more sustainable manufacturing sector, and to practices that provide more resilience without compromising the population's livelihoods.
+
+```{r, out.width='45%', echo = FALSE, fig.align='center', fig.cap = "Who is hurt by climate change? Source: CGD (2015)"}
+knitr::include_graphics('/Users/abezares/Documents/Documents - Alma’s MacBook Pro/Whittier College/Course Material/Academic Year 2020-21/ECON371-PED/Book/images/whoshurt.png')
+```
+
+One of the primary sources of degradation in many parts of low- and middle-income countries is deforestation^[In Ivory Coast, for instance, rainforest cover has been reduced by 80\% since 1960 (The Guardian, 2017)]. In 2011, this practice was responsible for 1/5 of the emissions in Latin America, almost 1/3 in Sub-Saharan Africa, and 2/5 in Southeast Asia (CDG, 2015). 
+
+What consequences could climate change cause? Olmer (2018) studies the economic effects of climate change in India. He finds that increases in temperature are associated with a decrease in agricultural production and average wages. He also finds that there is a shift of labor from agricultural to the manufacturing sector. 
+
+In addition to the economic mechanisms linked to climate change, these are hardly the only ones. Climate change also affects social and political behavior. In a lab experiment, [Miguel (2019)](https://youtu.be/DiHCBG5bAm4) finds that higher temperatures incite anti-social behavior. 
+
+
+## Ethnicity, culture and development
+
+What role does culture play in development? Until very recently, this question did not receive much attention. However, culture seems to be an exciting factor to analyze when examining development patterns. For one, culture seems to be rather persistent, but it is not immutable (Giuliano, P. and Nunn, N., 2018), so it may be the case that, as Guiliano and Nunn (2018) argue, culture mutates in less stable environments. This, in turn, implies that culture is not immutable. Therefore, contrary to common perceptions, culture seems to respond to the context, and it is not a systematic factor.
+
+This idea goes in line with [Spolaore and Wacziarg, 2013](https://drive.google.com/file/d/1r2CxfLC5m_Eb9XcSQ_v-2XlV2jvSaCeU/view?usp=sharing), who argue that even if long-term history matters, there is much variation, such as the diffusion of knowledge, which happens vertically --across generations-- but also horizontally --across populations--. So, even if some believe that certain traits can be more "development prone," it is important to acknowledge that cultures adapt and are "persistent but dynamic."
+
+[Lopez-Claros and Perotti (2014)](https://drive.google.com/file/d/1vrPv39iys5xNF0dlvfGpxGt1Jo5x04a8/view?usp=sharing) go a step forward and argue that culture can adapt and integrate a set of values that are universally desirable and compatible with the development of humanity, without imposing objectives that are relevant only in certain regions of the world.
+
+*Ethnicity and Development*
+
+Similarly to culture, ethnicity is a controversial issue. It is a fluid concept, but it carries tremendous political, social, and economic implications that cannot be disregarded (Englebert et al., 2018). It comprehends more than trait characteristics or language. It also contains values and aspirations that were reshaped and reinterpreted during the colonial period (Derg, 2020). This complicated the formation of nations after independence and has been a factor limiting development, as it has led to the configuration of neo-patrimonial state (Cheeseman and Fisher, 2019).
+
+
+## Some Questions to Think About (No Seminar Questions)
+
+Climate Change
+
+- How does climate change compromises the livelihoods of people in the Virunga National Park? Why is it so complex to fight against charcoal production in the region?
+
+Culture and Development
+
+- Can cultures 'become' amicable to development? Please explain
+- How do you think the ethnic configuration of African countries can help/limit their development? 
+
+
+## Readings Module 4
+
+### Required Readings Module 4
+
+Climate Change
+
+- Marijnen, E. and Verweijen, J. (2019). [*"The charcoal challenge in DRC’s Virunga"*](https://drive.google.com/file/d/1xQNh4FkvYxIDlBYIP_bKCjziV_CXJYSf/view?usp=sharing). London: LSE
+
+Culture, Ethnicity and Development
+
+- Lopez-Claros, A. and Perotti, V. (2014). [*"Does Culture Matter for Development?"*](https://drive.google.com/file/d/1vrPv39iys5xNF0dlvfGpxGt1Jo5x04a8/view?usp=sharing). Policy Research Working Paper 7092. Washington, D.C.: World Bank 
+
+- Deng, F. (1997).[*"Ethnicity: An African Predicament"*](https://drive.google.com/file/d/1l3uUQaz0TKzWVhZL_SUvh-up_s3u_klI/view?usp=sharing). Washington, D.C.: Brookings Institution 
+
+### Suggested Readings and Resources Module 3
+
+Culture, Ethnicity and Development
+
+- Giuliano, P. and Nunn, N. (2017). [*"Understanding Cultural Persistence and Change"*](https://drive.google.com/file/d/13SPwKWULZCTRw-n7kEN2Rki1E6jaTWPj/view?usp=sharing). NBER Working Paper 23617. 
+- Spolaore, E. and Wacziarg, R. (2013). [How Deep Are the Roots of Economic Development?](https://drive.google.com/file/d/1r2CxfLC5m_Eb9XcSQ_v-2XlV2jvSaCeU/view?usp=sharing). *Journal of Economic Literature*. Vol. 51(2). pp. 325-369
+- Depetris-Chauvin, E., Durante, R., Campante, F. (2019). [Building Nations Through Shared Experiences: Evidence from African Football](https://drive.google.com/file/d/1SxL_MaDSrssICshAV7oc0kH45I1KhMgQ/view?usp=sharing). Working Paper
+

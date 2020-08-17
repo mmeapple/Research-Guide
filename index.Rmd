@@ -1,0 +1,58 @@
+--- 
+title: "Political Economy of Development"
+author: "Alma A. Bezares Calderón"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+site: "bookdown::bookdown_site"
+documentclass: book
+ebiblio-style: apalike
+link-citations: yes
+github-repo: mmeapple/Books
+description: "Guide for the Course ECON371- Political Economy of Development"
+---
+
+# Course Information
+
+```{r, out.width='50%', echo = FALSE, fig.align='center'}
+knitr::include_graphics('/Users/abezares/Documents/Documents - Alma’s MacBook Pro/Whittier College/Course Material/Academic Year 2020-21/ECON371-PED/Book/images/ECON371.png')
+```
+
+<p>&nbsp;</p>
+
+The objective of this compendium is to provide a study guide for the course: ECON371- Political Economy of Development. This guide does not replace any of the books used in the course nor the lecture notes. However, it will help you to go through it, so you can understand and critically think about the material that we will cover in the course.
+
+## Team
+
+* Professor: Dr. Alma A. Bezares Calderón
+* Email: abezares@whittier.edu
+* Dates: September 8th- October 23rd
+* Seminar (synchronous) hours: T Th- 3-4:15 pm
+* Student hours: T Th- 4:20- 5:30 pm or by appointment
+* Appointments: https://calendly.com/abezares/meeting-time
+* Slack: https://join.slack.com/t/econalmabezares/shared_invite/zt-ggdbiuuf-ydLlsSQ3rvs6Pn5QJtegIw
+
+
+### How to contact me?
+
+The best way to contact me is through email. I am usually very fast at responding to my students, but plan for a 24-hour delay in my response during the weekdays. I usually do not check my email over the weekends, so please plan accordingly. 
+
+If you want to set up a meeting, you can use my Calendly (see info above). If you do not find a time that suits you, please send me an email and we can find a different time.
+
+You can also send me a message on Slack (link above). 
+
+
+## Course Overview
+
+This course focuses on people's living conditions and development issues in low- and middle-income countries, with particular emphasis on the African continent. However, we will also cover some cases in Asia and Latin America.
+
+In this course, we will see that economic development does not happen in a vacuum, but it is surrounded by political and cultural phenomena that need to be taken into account when studying the livelihoods of peoples in low-income countries. We will analyze different perspectives, borrowing concepts from political scientists, anthropologists, historians, and, tangentially, on works of literature and other arts.
+
+This interdisciplinarity will expose students to different and, sometimes juxtaposed, angles on various issues. This will encourage students to create a more comprehensive and nuanced view of economic development.
+
+## Who should take this course? 
+
+Although this course mainly targets students interested in working on economic issues in low- and middle-income countries, it welcomes students who would like to explore ideas beyond mainstream economics and examine some new approaches in the field.
+
+Although traditional economics has proven its capacity to explain multiple economic and social issues worldwide, this course uses economic concepts in a humble manner, showing that this approach is incomplete and often limited in explaining many topics in low-income countries. Instead, we will welcome the approaches from other disciplines to obtain a more comprehensive vision of development.
+
+This is not to say that we will abandon economic precepts. We will instead learn more about the context, understand what has worked well in the past, and what has had adverse effects. We will find how politics must be taken into account as they sometimes work in a different direction than economic concepts. We will use this as our basis to explore how, given this set of conditions, economic concepts can be understood and applied to understand the material and economic conditions and potentially transform them.

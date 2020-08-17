@@ -1,0 +1,46 @@
+# - Structure and schedule
+
+## Weekly schedule
+
+This is how the general structure of a week looks like:
+
+| Activity | Deadline | Description |
+| -----------| -----------| -----------|
+Readings topic covered | Before introduction asynchronous session | We will cover three topics per week |
+Asynchronous session | Monday and Wednesday | Videos will be posted by 9 am on the day of the session^[During week 1, we will have a syncrhonous session on Wednesday for the introduction. There will be a video posted as well, with information on the first topic] |
+Syncrhonous session | Tuesday and Thursday 3-4:15 pm | Prepare for the activities |
+Seminar questions |  Thursday 7 pm | Answer the seminar questions of **every** topic covered during the week |
+Seminar feedback | Friday 3 pm | You need to provide feedback to at least 2 of your peers [here](https://app.eduflow.com/join/YXRW5S) |
+Finish activity | Friday 4:15 pm | In case you (and your teammates) did not finish an activity, you have until this time to finish it. 
+
+## Tentative Calendar
+
+Here is a **tentative** calendar of the topics that we will cover during the course:
+
+
+| Week | Topic |
+| ------| -------------------|
+| 1 | Introduction
+| 1 | What is development? |
+| 1 | **Choose your team and topic for the final project** |
+| 2 | Development Theories | 
+| 2 | Poverty and Poverty Traps | 
+| 2 | History and development: Pre-colonial Africa and trade of enslaved persons | 
+| 2 | *Informal check-up final project: Book an appointment with me* |
+| 3 | History and development: Colonization period | 
+| 3 | History and development: After independence | 
+| 3 | Conflict and development | 
+| 4 | Politics and development | 
+| 4 | The role of institutions | 
+| 4 | *Informal check-up final project: Book an appointment with me* |
+| 4 | **Assessment 1: 50-hour assessment: Wednesday 3 pm- Friday 5 pm** |
+| 5 | Structuring the economy: Agriculture | 
+| 5 | Structuring the economy: Industrial policy | 
+| 5 | International trade | 
+| 6 | Foreign aid |
+| 6 | The rural-urban divide and migration |
+| 6 | Micro topics: public finance and financial development |
+| 7 | Tentative: Ethnicity, culture and development 
+| 7 | **Assessment 2: 50-hour assessment: Tuesday 3 pm- Thursday 5 pm** |
+| 7 | **Analysis paper due by Friday, Oct. 23rd- 7 pm** |
+
