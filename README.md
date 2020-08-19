@@ -14,14 +14,14 @@ This is not a set of rules, as papers may differ depending on the methods and sp
 
 What are the sections generally included in well-written introductions? According to the analysis of what different authors suggest, a well-written introduction includes the following sections:
 
-1. **Hook:** Motivation, puzzle. _(1-2 paragraphs)_
-1. **Research Question:** What is the paper doing? _(1 paragraph)_
-1. **Antecedents:** _(optional)_ How your paper is linked to the bigger issue. Theory. _(1-2 paragraphs)_
-1. **Empirical approach:** Method X, country Y, dataset Z. _(1-2 paragraphs)_
-1. **Detailed results:** Don't make the readers wait. _(2-3 paragraphs)_
-1. **Mechanisms, robustness and limitations:** _(optional)_ Your results are valid and important _(1 paragraph)_
-1. **Value added:** Why is your paper important? How is it contributing to the field? _(1-3 paragraphs)_
-1. **Roadmap** A convention _(1 paragraph)_
+1. **Hook:** Motivation, puzzle. (1-2 paragraphs)
+1. **Research Question:** What is the paper doing? (1 paragraph)
+1. **Antecedents:** _(optional)_ How your paper is linked to the bigger issue. Theory. (1-2 paragraphs)
+1. **Empirical approach:** Method X, country Y, dataset Z. (1-2 paragraphs)
+1. **Detailed results:** Don't make the readers wait. (2-3 paragraphs)
+1. **Mechanisms, robustness and limitations:** (optional) Your results are valid and important (1 paragraph)
+1. **Value added:** Why is your paper important? How is it contributing to the field? (1-3 paragraphs)
+1. **Roadmap** A convention (1 paragraph)
 
 Now, let's describe the different sections with more detail.
 
