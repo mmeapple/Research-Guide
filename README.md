@@ -32,18 +32,25 @@ Now, let's describe the different sections with more detail.
 Your first paragraph(s) should attract the attention of the readers, showing them why your research topic is important. Some attributes here are:
 
 a. Big issue, specific angle: This is the big problem, here is this aspect of the problem (that your research tackles)
-a. Big puzzle: There is no single explanation of the problem (you will address that)
-a. Major policy implemented: Here is the issue and the policy implemented (you will test if if worked)
-a. Controversial debate: some argue X, others argue Y
+
+b. Big puzzle: There is no single explanation of the problem (you will address that)
+
+c. Major policy implemented: Here is the issue and the policy implemented (you will test if if worked)
+
+d. Controversial debate: some argue X, others argue Y
 
 ### 2. Research Question
 
 After the issue has been introduced, you need to clearly state your research question; tell the reader what does the paper researches. Some words that may work here are:
 
 a. I (We) focus on
+
 b. This paper asks whether
+
 c. In this paper, ...
+
 d. Given the gaps in knoweldge, this paper ...
+
 e. This paper investigates
 
 ### 3. Antecedents (Optional section)
@@ -53,7 +60,8 @@ I included this section as optional as it is not always included, but it may hel
 However, an important warning needs to be placed here. Remember that the introduction is limited and you need to use it to highlight _your work_ and not someone else's. So, when the section is included, it is important to:
 
 a) Avoid discussing paper that are not part of the larger narrative that surrounds your work
-a) Use it to notice the gaps that exist in the current literature and that your paper is covering
+
+b) Use it to notice the gaps that exist in the current literature and that your paper is covering
 
 In this section, you may also want to include a description of theoretical framework of your paper and/or a short description of a story example that frames your work.
 
