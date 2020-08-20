@@ -41,10 +41,10 @@ a. Controversial debate: some argue X, others argue Y
 After the issue has been introduced, you need to clearly state your research question; tell the reader what does the paper researches. Some words that may work here are:
 
 a. I (We) focus on
-a. This paper asks whether
-a. In this paper,
-a. Given the gaps in knoweldge, this paper 
-a. This paper investigates
+b. This paper asks whether
+c. In this paper, ...
+d. Given the gaps in knoweldge, this paper ...
+e. This paper investigates
 
 ### 3. Antecedents (Optional section)
 
